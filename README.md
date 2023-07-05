@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhrammathad13&label=Profile%20views&color=76ec27&style=flat" alt="sambhrammathad13" /> </p>
 
-- 🌱 I’m currently learning **php,SQL etc.**
+- 🌱 I’m currently learning **python,flask etc.**
 
 - 💬 Ask me about **javascript,c,tailwind.....**
 
