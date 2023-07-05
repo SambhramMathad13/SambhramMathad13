@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python,flask etc.**
 
-- 💬 Ask me about **javascript,c,tailwind.....**
+- 💬 Ask me about **javascript,bootstrap,php,sql.....**
 
 - ⚡ Fun fact **Dynamic is better than being static...**
 
