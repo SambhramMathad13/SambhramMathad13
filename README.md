@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhrammathad13&label=Profile%20views&color=76ec27&style=flat" alt="sambhrammathad13" /> </p>
 
-- 🌱 I’m currently learning **python,flask etc.**
+- 🌱 I’m currently learning **Django, DRF etc.**
 
-- 💬 Ask me about **javascript,bootstrap,php,sql.....**
+- 💬 Ask me about **Django,bootstrap,php,sql.....**
 
 - ⚡ Fun fact **Dynamic is better than being static...**
 
